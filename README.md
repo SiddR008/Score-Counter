@@ -4,4 +4,4 @@
 
 <h2>🚀 Link</h2>
 
-[https://score-counter-by-sidd.netlify.app/](https://score-counter-by-sidd.netlify.app/){:target="_blank"}
+[https://score-counter-by-sidd.netlify.app/](https://score-counter-by-sidd.netlify.app/){:target="_blank" rel="noopener"}
