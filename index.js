@@ -35,3 +35,10 @@ function increment5guest() {
     add += 5
     addGuest.textContent = add
 }
+
+function Zero() {
+    add = 0
+    count = 0
+    addOne.textContent=count 
+addGuest.textContent=add
+}
