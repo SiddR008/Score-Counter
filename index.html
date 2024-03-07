@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SCORE COUNTER</title>
+  <link rel="stylesheet" href="index.css">
+  
+</head>
+
+<body>
+  <div class="card">
+    <div class="container">
+      <div class="home">
+        <h3>Team A</h3>
+        <div class="home-score" id="score-color">
+          <span id="score-home">0</span>
+        </div>
+        <div class="score-btn-home" id="score-btn">
+          <button id="addone" onclick="increment1()">
+            +1
+          </button>
+          <button id="addthree" onclick="increment3()">
+            +3
+          </button>
+          <button id="addfive" onclick="increment5()">
+            +5
+          </button>
+
+        </div>
+      </div>
+      <div class="guest">
+        <h3>Team B</h3>
+        <div class="guest-score" id="score-color">
+          <span id="score-guest">0</span>
+        </div>
+        <div class="score-btn-guest" id="score-btn">
+          <button onclick="increment1guest()">
+            +1
+          </button>
+          <button onclick="increment3guest()">
+            +3
+          </button>
+          <button onclick="increment5guest()">
+            +5
+          </button>
+        </div>
+      </div>
+
+    </div>
+    <div class="reset">
+      <button id="Reset" onclick="Zero()">
+        Reset
+      </button>
+    </div>
+  </div>
+  <script src="index.js"></script>
+</body>
+
+</html>
