@@ -2,6 +2,5 @@
 
 <p id="description">It's Help in counting team score</p>
 
-<h2>🚀 Link</h2>
+<h2>🚀 [Link]([https://www.geeksforgeeks.org/](https://score-counter-by-sidd.netlify.app/](https://score-counter-by-sidd.netlify.app/)https://score-counter-by-sidd.netlify.app/](https://score-counter-by-sidd.netlify.app/){:target="_blank"}  </h2>
 
-[https://score-counter-by-sidd.netlify.app/](https://score-counter-by-sidd.netlify.app/){:target="_blank" rel="noopener"}
