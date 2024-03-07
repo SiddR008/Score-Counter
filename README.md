@@ -3,4 +3,5 @@
 <p id="description">This counter help in counting score</p>
 
 <h2>🚀 Demo</h2>
-  <a href="[http://](https://score-counter-by-sidd.netlify.app/](https://score-counter-by-sidd.netlify.app/)https://score-counter-by-sidd.netlify.app/](https://score-counter-by-sidd.netlify.app/">Link</a>
+
+[https://score-counter-by-sidd.netlify.app/](https://score-counter-by-sidd.netlify.app/)
